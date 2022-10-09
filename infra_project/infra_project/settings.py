@@ -32,6 +32,7 @@ ALLOWED_HOSTS = [
     'testserver',
     '51.250.82.42',
     'highrock.ddns.net',
+    '178.154.226.19',
 ]
 
 
